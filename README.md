@@ -1,2 +1,2 @@
 # Projeto02-desafio
-Corrigindo Bugs
+Desafio de corrigir alguns bugs no projeto da aula.
